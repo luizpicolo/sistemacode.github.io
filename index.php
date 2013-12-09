@@ -52,6 +52,11 @@
                         <article id="sobre-o-projeto">
                             <h2>Conheça mais sobre o projeto</h2>
                             
+                            <section id="video-explicativo">
+                                <h3><i class="fa fa-video-camera"></i> Video Explicativo</h3>
+                                <p><iframe src="//player.vimeo.com/video/81362380?byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+                            </section>
+                            
                             <section>
                                 <h3><i class="fa fa-lightbulb-o"></i> O que é?</h3>
                                 <p>O <strong>C.O.D.E</strong> é um sistema idealizado para  automatizar o processo de cadastro, listagem e geração de relatórios das ocorrências e desempenhos escolares de forma simplificada.</p>
@@ -64,9 +69,9 @@
                             
                             <section>
                                 <h3><i class="fa fa-users"></i> Público alvo</h3>
-                                <p>Nosso público alvo são as instituições de ensino em seus diversos níveis, desde a educação básica ao ensino médico. Dentre estas diversas etápas, buscamos as pequenas e medias instituições que necessitam de um sistema com baixo custo e alto benefício.
-</p>
+                                <p>Nosso público alvo são as instituições de ensino em seus diversos níveis, desde a educação básica ao ensino médico. Dentre estas diversas etápas, buscamos as pequenas e medias instituições que necessitam de um sistema com baixo custo e alto benefício.</p>
                             </section>
+                            
                         </article>
                     </div>
                 </main>
