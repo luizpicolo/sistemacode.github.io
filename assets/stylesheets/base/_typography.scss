@@ -1,0 +1,28 @@
+// typography
+
+$titles: h1, h2, h3, h4, h5, h6;
+
+@each $title in $titles {
+  #{$title} {
+    font-family: $family-one;
+    font-size: 1em;
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+@include media($screen-md) {
+  .text--left {
+    text-align: left;
+  }
+
+  .text--right {
+    text-align: right;
+  }
+
+  .text--center {
+    text-align: center;
+  }
+}

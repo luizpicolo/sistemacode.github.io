@@ -1,13 +1,42 @@
-HotSite C.O.D.E
-=========
+# Skeleton
 
-HotSite para divulgação da ferramenta C.O.D.E    
-Visite http://sistemacode.github.io
+> Inspired in [Skeleton Project Rails](https://github.com/luizpicolo/skeleton-project-rails)
 
-## Contribuições
+## How to use
 
-1. Fork nosso projeto ( https://github.com/sistemacode/sistemacode.github.io.git )
-2. Crie seua feature branch (`git checkout -b my-new-feature`)
-3. Commit suas mudanças (`git commit -am 'Add some feature'`)
-4. Push em seu branch (`git push origin my-new-feature`)
-5. Crie um novo Pull Request
+### Required
+- Node.js (Grunt and Bower)
+- Ruby (Sass)
+
+Dependencies of NPM
+
+```shell
+npm install
+```
+
+Dependencies of Bower
+
+```shell
+bower install
+```
+
+Run Grunt
+
+```shell
+grunt w
+```
+
+:ship:
+
+
+# Libraries
+
+- [jQuery](https://jquery.com/)
+- [Owl Carousel](http://owlgraphic.com/owlcarousel/)
+- [Bourbon](http://bourbon.io/)
+- [Neat](http://neat.bourbon.io/)
+- [Ionicons](http://ionicons.com/)
+
+
+============
+gmedina.santos@gmail.com

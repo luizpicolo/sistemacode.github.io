@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gabrielmedina/boilerplate",
+  "authors": [
+    "gabrielmedina <gmedina.santos@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "livereload-js": "~2.2.1",
+    "modernizr": "~2.8.3",
+    "owlcar": "~1.3.2"
+  }
+}
