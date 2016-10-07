@@ -1,0 +1,48 @@
+// banner
+
+.banner {
+  text-align: center;
+
+  padding: 6rem 0 2rem;
+  background: url('../img/bg.jpg') repeat-x;
+}
+
+.banner__title {
+  margin: 0 0 1rem;
+
+  color: $primary;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.banner__text {
+  line-height: 1.6;
+
+  color: lighten($black, 40%);
+  font-size: .8em;
+
+  p {
+    margin: 0;
+  }
+}
+
+@include media($screen-md) {
+  .banner {
+    padding: 10rem 0 0;
+  }
+
+  .banner__title {
+    font-size: 2em;
+  }
+
+  .banner__text {
+    font-size: 1em;
+    padding: 0 20%;
+  }
+}
+
+@include media($screen-lg) {
+  .banner__title {
+    font-size: 2.3em;
+  }
+}

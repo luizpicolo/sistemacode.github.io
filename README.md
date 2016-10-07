@@ -1,42 +1,13 @@
-# Skeleton
+Landpage to Sistema C.O.D.E
+=========
 
-> Inspired in [Skeleton Project Rails](https://github.com/luizpicolo/skeleton-project-rails)
+This page has created to divulge the system C.O.D.E
+See the result in: http://sistemacode.github.io
 
-## How to use
+## Contributing
 
-### Required
-- Node.js (Grunt and Bower)
-- Ruby (Sass)
-
-Dependencies of NPM
-
-```shell
-npm install
-```
-
-Dependencies of Bower
-
-```shell
-bower install
-```
-
-Run Grunt
-
-```shell
-grunt w
-```
-
-:ship:
-
-
-# Libraries
-
-- [jQuery](https://jquery.com/)
-- [Owl Carousel](http://owlgraphic.com/owlcarousel/)
-- [Bourbon](http://bourbon.io/)
-- [Neat](http://neat.bourbon.io/)
-- [Ionicons](http://ionicons.com/)
-
-
-============
-gmedina.santos@gmail.com
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
