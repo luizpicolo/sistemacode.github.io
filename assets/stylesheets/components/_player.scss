@@ -1,0 +1,36 @@
+// player
+
+.player {
+  margin-top: 2rem;
+}
+
+.player__content {
+  position: relative;
+
+  height: 0;
+  padding-bottom: 55%;
+
+  background: $white;
+}
+
+.player__frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+}
+
+@include media($screen-md) {
+  .player {
+    position: relative;
+    margin: 4rem auto 0;
+
+    width: 60%;
+  }
+
+  .player__content {
+    padding-bottom: 57%;
+  }
+}

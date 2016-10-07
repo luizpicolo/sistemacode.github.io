@@ -1,0 +1,19 @@
+// icon
+
+.icon {
+  display: inline-block;
+  color: $primary;
+  font-size: 1em;
+}
+
+.icon--left {
+  margin-right: .25em;
+}
+
+.icon--right {
+  margin-left: .25em;
+}
+
+.icon--center {
+  margin: 0 .25em;
+}

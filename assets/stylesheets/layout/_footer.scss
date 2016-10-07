@@ -1,0 +1,23 @@
+// footer
+
+.footer {
+  cursor: default;
+
+  padding: 1rem 0;
+  background: darken($white, 4%);
+
+  color: lighten($black, 40%);
+  font-size: .8em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.footer__link {
+  color: $primary;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+.footer__small {
+  font-size: 1em;
+}
