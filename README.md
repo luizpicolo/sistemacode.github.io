@@ -1,4 +1,4 @@
-Landpage to Sistema C.O.D.E
+Landing page to Sistema C.O.D.E
 =========
 
 This page has created to divulge the system C.O.D.E
