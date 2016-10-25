@@ -16,7 +16,6 @@ module.exports = function(grunt){
           'public/js/application.js':
           [
             'assets/bower/jquery/dist/jquery.js',
-            'assets/bower/owlcar/owl-carousel/owl.carousel.min.js',
             'assets/javascripts/project/**.js',
             'assets/javascripts/**.js'
           ]
@@ -32,11 +31,7 @@ module.exports = function(grunt){
           loadPath: require('node-neat').includePaths
         },
         files: {
-          'public/css/application.css':
-          [
-            'bower/owlcar/owl-carousel/owl.carousel.css',
-            'assets/stylesheets/application.scss'
-          ]
+          'public/css/application.css': 'assets/stylesheets/application.scss'
         }
       }
     }, // sass
