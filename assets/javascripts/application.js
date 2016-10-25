@@ -14,11 +14,6 @@ $(function(){
     $('.link--prevent')
   );
 
-  // owl
-  _owl.slide(
-    $('.slide')
-  );
-
   // nav
   _nav.open(
     $('html'),
