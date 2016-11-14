@@ -140,7 +140,7 @@
 
   .nav__item {
     display: inline-block;
-    margin-right: 1rem;
+    margin-right: 3rem;
   }
 
   .nav__link {
@@ -148,7 +148,7 @@
     font-size: .85em;
     font-weight: 400;
 
-    padding: .8rem 1rem;
+    padding: .8rem 0;
 
     @include transition(border .1s ease);
 
